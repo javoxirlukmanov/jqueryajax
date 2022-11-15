@@ -1,0 +1,14 @@
+{
+  "name": "jquery-ajax",
+  "version": "1.0.0",
+  "description": "Jquery-ajax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tempiltin",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
